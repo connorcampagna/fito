@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Fito</string>
+    <key>CFBundleDisplayName</key>
+    <string>Fito</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Fito needs camera access to take photos of your clothes for your digital wardrobe.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Fito needs photo library access to add photos of your clothes to your digital wardrobe.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Fito needs permission to save outfit photos to your library.</string>
+    <key>UIUserInterfaceStyle</key>
+    <string>Light</string>
+    <key>UILaunchScreen</key>
+    <dict>
+        <key>UIColorName</key>
+        <string>LaunchScreenBackground</string>
+        <key>UIImageName</key>
+        <string>LaunchIcon</string>
+    </dict>
+</dict>
+</plist>
