@@ -24,37 +24,33 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🏠 **Smart Home Screen**
+###  **Smart Home Screen**
 - Personalized daily styling tips
 - Quick suggestion chips for common occasions
 - Natural language outfit requests ("I need an outfit for date night at a sushi bar...")
 - One-tap "Style Me" button for instant AI recommendations
 
-### 👚 **Digital Closet**
+###  **Digital Closet**
 - Upload photos of your clothes
 - AI-powered item categorization
 - Organize by category: Tops, Bottoms, Dresses, Shoes & more
 - Tag items with colors, brands, and occasions
 
-### 💾 **Saved Looks**
+### **Saved Looks**
 - Save your favorite AI-generated outfits
 - Filter by occasion: Casual, Work, Date Night
 - Quick access to go-to looks
 - Rate and favorite outfits
 
-### 🤖 **AI Styling Engine**
+###  **AI Styling Engine**
 - Powered by Google Gemini AI
 - Context-aware recommendations based on:
   - Weather & season
   - Occasion & setting
   - Your personal style preferences
   - Items in your closet
-
-### 👕 **Virtual Try-On** *(Coming Soon)*
-- See how outfits look on you
-- Mix and match before committing
 
 ---
 
@@ -72,7 +68,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Xcode 15+
@@ -157,18 +153,6 @@ fito/
 
 ---
 
-## 💳 Subscription Tiers
-
-| Feature | Free | Premium ($9.99/mo) |
-|---------|------|-------------------|
-| AI Generations | 5/month | 100/month |
-| Saved Outfits | 3 | Unlimited |
-| Closet Items | 20 | Unlimited |
-| Daily Tips | ✅ | ✅ |
-| Advanced AI | ❌ | ✅ |
-| Early Access | ❌ | ✅ |
-
----
 
 ## 🔐 Security
 
@@ -190,10 +174,5 @@ This project is proprietary software. All rights reserved.
 
 **Connor Campagna**
 
-- GitHub: [@connorcampagna](https://github.com/connorcampagna)
-
 ---
 
-<p align="center">
-  Made with ❤️ and AI
-</p>
