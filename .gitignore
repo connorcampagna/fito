@@ -1,7 +1,4 @@
-# ============================================
-# ENVIRONMENT & SECRETS (CRITICAL!)
-# ============================================
-# Never commit API keys, database credentials, or secrets
+
 .env
 .env.*
 .env.local
@@ -14,9 +11,7 @@ secrets/
 *.secret
 *.secrets
 
-# ============================================
-# NODE.JS / BACKEND
-# ============================================
+
 node_modules/
 npm-debug.log*
 yarn-debug.log*
@@ -29,15 +24,10 @@ package-lock.json
 backend/generated/
 */generated/prisma/
 
-# ============================================
-# VERCEL / DEPLOYMENT
-# ============================================
+
 .vercel
 .vercel/
 
-# ============================================
-# XCODE / iOS
-# ============================================
 # User-specific Xcode files (contains user preferences, not project settings)
 xcuserdata/
 *.xcuserstate
@@ -67,9 +57,7 @@ Package.resolved
 # Archives
 *.xcarchive
 
-# ============================================
-# MACOS
-# ============================================
+
 .DS_Store
 .DS_Store?
 ._*
@@ -81,9 +69,7 @@ Package.resolved
 # Finder window settings
 .fseventsd
 
-# ============================================
-# IDE & EDITORS
-# ============================================
+
 # VS Code
 .vscode/
 *.code-workspace
@@ -96,18 +82,13 @@ Package.resolved
 *.sublime-project
 *.sublime-workspace
 
-# ============================================
-# BUILD OUTPUTS
-# ============================================
 dist/
 out/
 *.ipa
 *.dSYM.zip
 *.dSYM
 
-# ============================================
-# LOGS & TEMP FILES
-# ============================================
+
 logs/
 *.log
 tmp/
@@ -115,16 +96,11 @@ temp/
 *.tmp
 *.temp
 
-# ============================================
-# TESTING
-# ============================================
 coverage/
 .nyc_output
 *.lcov
 
-# ============================================
-# MISC
-# ============================================
+
 # Thumbnails
 Thumbs.db
 
